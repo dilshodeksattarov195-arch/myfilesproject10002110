@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatorperify",
+        "uuid": 18291590,
+        "checksum": "5jlawj"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
